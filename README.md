@@ -42,7 +42,7 @@ cd neuroquanticrypt
 # Install dependencies
 pip install torch cryptography numpy
 
-# details:
+# Details:
 Project: Design and Implementation of a Hybrid Quantum-Resistant Cryptography Framework Using Neural Networks and Homomorphic Cryptography
 Project Name: NeuroQuanticrypt
 1. The main goal of the project
