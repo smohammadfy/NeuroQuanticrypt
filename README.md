@@ -1,3 +1,48 @@
+# NeuroQuanticrypt 🔒🧠
+
+An innovative hybrid encryption framework that combines the power of quantum-resistant cryptography, neural networks, and homomorphic encryption.
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-experimental-orange)
+![Cryptography](https://img.shields.io/badge/crypto-advanced-brightgreen)
+
+## 🌟 Key Features
+
+- **🧠 Neural Network-Based Encryption** - Dynamic algorithm with block-to-block feedback
+- **🛡️ Quantum-Resistant** - Post-quantum cryptography algorithms
+- **🔐 Homomorphic Encryption** - Perform computations on encrypted data
+- **🎯 Three-Layer Security** - Multi-layer architecture for maximum protection
+- **⚡ Dynamic & Adaptive** - Neural models that adapt to data patterns
+- **🔑 Zero-Trust Model** - End-to-end encryption with client-side key management
+
+## 🏗️ Architecture Overview
+
+NeuroQuanticrypt employs a sophisticated three-layer security model:
+
+### Layer 1: Neural Dynamic Encryption (NDE)
+- Custom neural network for keystream generation
+- Block-to-block feedback mechanism
+- Data-dependent encryption patterns
+
+### Layer 2: Post-Quantum Cryptography (PQC)
+- Quantum-resistant key encapsulation
+- HKDF-based key derivation
+- Future-proof security
+
+### Layer 3: Homomorphic Encryption (HE)
+- Secure computations on encrypted data
+- Support for arithmetic operations
+- Cloud processing capabilities
+
+# Clone the repository
+git clone https://github.com/smohammadfy/neuroquanticrypt.git
+cd neuroquanticrypt
+
+# Install dependencies
+pip install torch cryptography numpy
+
+# details:
 Project: Design and Implementation of a Hybrid Quantum-Resistant Cryptography Framework Using Neural Networks and Homomorphic Cryptography
 Project Name: NeuroQuanticrypt
 1. The main goal of the project
